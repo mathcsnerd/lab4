@@ -21,16 +21,7 @@ Hey CSE15L course staff!
 
 
 FILE/DIRECTORY STRUCTURE:
--libs
-  -ArrayExamples.java
-  
-  -ArrayTests.java
-  
-  -FileExample.java
-  
-  -LinkedListExample.java
-  
-  -ListExamples.java
+
 
 
 ArrayExamples.java
