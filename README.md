@@ -24,7 +24,7 @@ Hey CSE15L course staff!
     
 
 
-3) Student's Reply
+3.) Student's Reply
 
     It works on both bash script and the javac/java commands. Thank you so much!
 
