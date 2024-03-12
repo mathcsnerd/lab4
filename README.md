@@ -17,18 +17,19 @@ Hey CSE15L course staff!
 2.) TA:
 
   Hey [Student Name].
-    Thank you for reaching out! You seem to be on the right track. Take a look at the line where you're swapping the elements. Notice that
-
-    Try doing arr[i] = arr[arr.length - i - 1]
+    Thank you for reaching out! You seem to be on the right track. Take a look at the line where you're swapping the elements. In the loop, you're iterating over the array and assigning each element to the value of the element at the mirrored position (i.e., the position from the end of the array). However, by doing this, you're essentially overwriting the original values before they are assigned to the correct reversed positions. To fix this, you must swap the indices you are assigning/getting assigned to at line 8.
+    
+    Try doing arr[arr.length - i - 1] = arr[i]
 
     
 
 
 3) Student's Reply
 
-    It works! Thank you so much!
+    It works on both bash script and the javac/java commands. Thank you so much!
 
    ![Image](Success)
+   ![Image](Bashing)
 
 
 
