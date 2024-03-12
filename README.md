@@ -8,7 +8,7 @@ Hey CSE15L course staff!
   Hey [Student Name].
     Thank you for reaching out! You seem to be on the right track. Take a look at the line where you're swapping the elements. Notice that....
 
-    Try doing arr[i] = arr[arr.length - i - 1]
+    Try doing `arr[i] = arr[arr.length - i - 1]`
 
     
 
