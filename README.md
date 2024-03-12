@@ -29,7 +29,7 @@ Hey CSE15L course staff!
     It works on both bash script and the javac/java commands. Thank you so much!
 
    ![Image](Success)
-   ![Image](Bashing)
+   ![Image](bashing)
 
 
 
