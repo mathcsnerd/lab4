@@ -26,15 +26,11 @@ Hey CSE15L course staff!
 
 3.) STUDENT:
 
-    It works on both bash script and the javac/java commands. Thank you so much!
-
-   ![Image](bashing)
+   ![Image](BashSuccess)
 
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 4.)
 
