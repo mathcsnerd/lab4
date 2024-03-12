@@ -54,5 +54,9 @@ FILE/DIRECTORY STRUCTURE:
 
 
 
+To trigger the bug, we run the following:
+![Image](Trigger)
+
+
 To fix the bug, we change from `arr[i] = arr[arr.length-i-1]` to `arr[arr.length-i-1] = arr[i]`.
 
