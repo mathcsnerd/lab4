@@ -54,4 +54,5 @@ FILE/DIRECTORY STRUCTURE:
 
 
 
+To fix the bug, we change from `arr[i] = arr[arr.length-i-1]` to `arr[arr.length-i-1] = arr[i]`.
 
