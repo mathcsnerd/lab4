@@ -62,6 +62,6 @@ To fix the bug, we change from `arr[i] = arr[arr.length-i-1]` to `arr[arr.length
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 PART 2
 
-I learned how we're able to add a commit message to our GitHub from the terminal space by using the `git add` and  `git commit -m ""`  commands. I think it's cool b/c for my CSE12 PAs, I always see that TAs have a message next to their username on GitHub, and now I know how it's done.
+I learned how we're able to add a commit message to our GitHub from the terminal space by using the `git add` and  `git commit -m ""`  commands. I think it's cool b/c for my CSE12 PAs, I always see that TAs have a message next to their username on GitHub above the assignment files, and now I know how it's done.
 
 
