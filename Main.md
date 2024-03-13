@@ -9,7 +9,7 @@ Hey CSE15L course staff!
 
   ![Image](ArrayTests)
 
-  ![Image](L)
+  ![Image](BASHL)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -54,7 +54,7 @@ FILE/DIRECTORY STRUCTURE:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To trigger the bug, we run the following:
-![Image](L)
+![Image](BASHL)
 
 
 To fix the bug, we change from `arr[i] = arr[arr.length-i-1]` to `arr[arr.length-i-1] = arr[i]`.
